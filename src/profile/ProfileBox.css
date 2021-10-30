@@ -1,0 +1,33 @@
+.BoxHeader {
+    display: flex;
+    align-content: center;
+    background-color: #e9ebee;
+    border-bottom: 1px solid grey;
+  }
+  .ProfileImg {
+    height: 35px;
+    width: 35px;
+  }
+.ProfileName {
+    font-weight: bold;
+  }
+  
+.BoxContent {
+    margin-top: 10px;
+    height: 60px;
+    align-content: center;
+    display: flex;
+  }
+
+  .BoxFooter {
+    background-color: #e9ebee;
+    padding: 10px;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+  }
+
+  .footerContent {
+    font-size: 13px;
+    margin-right: 6px;
+    cursor: pointer;
+  }

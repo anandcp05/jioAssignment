@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  width: 500px;
+  background-color: white;
+  margin: 20px auto;
+  padding: 5px;
+}
+
+.Main {
+  background-color: #e9ebee;
+}
+
+
+.userComments {
+  font-size: 12px;
+  margin-left: 10px;
+}
+.commentProfileName {
+  font-size: 13px;
+  font-weight: 800;
+}
+.commentsLike {
+  position: absolute;
+  margin-left: 36px;
+}
+.childComment {
+  margin-left: 20px;
+}

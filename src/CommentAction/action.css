@@ -1,0 +1,11 @@
+.BoxFooter {
+    background-color: #e9ebee;
+    padding: 10px;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+  }
+  .footerContent {
+    font-size: 13px;
+    margin-right: 6px;
+    cursor: pointer;
+  }
