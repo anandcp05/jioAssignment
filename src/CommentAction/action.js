@@ -12,7 +12,7 @@ export default function actions(props) {
             >
                 Like {comment.like}
             </span>
-            <span className="footerContent" onClick={() => onReplyClick(comments, comment)}>Comment</span>
+            <span className="footerContent" onClick={() => onReplyClick(comments, comment)}>Reply</span>
             <span className="footerContent" onClick={() => onShareClick(comments, comment)}>Share</span>
         </p >
     )
